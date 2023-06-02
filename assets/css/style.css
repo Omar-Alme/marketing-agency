@@ -11,6 +11,10 @@ body {
   font-weight: 400;
 }
 
+header > a {
+  text-decoration: none;
+}
+
 .header {
   display: flex;
   align-items: center;
@@ -28,5 +32,14 @@ body {
 }
 
 .nav-link {
-  display: block;
+  text-decoration: none;
+  display: inline-block;
+  color: #524a4e;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.nav-link:hover,
+.nav-link:active {
+  color: #ff5c8d;
 }
