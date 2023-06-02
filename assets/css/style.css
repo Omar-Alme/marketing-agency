@@ -41,5 +41,12 @@ header > a {
 
 .nav-link:hover,
 .nav-link:active {
-  color: #ff5c8d;
+  color: #cf456e;
+}
+
+.nav-link.nav-btn {
+  background-color: #ff5c8d;
+  color: #fff;
+  border-radius: 9px;
+  padding: 0.8rem 1.6rem;
 }
