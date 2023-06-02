@@ -50,3 +50,8 @@ header > a {
   border-radius: 9px;
   padding: 0.8rem 1.6rem;
 }
+
+.nav-link.nav-btn:hover,
+.nav-link.nav-btn:active {
+  background-color: #cf456e;
+}
