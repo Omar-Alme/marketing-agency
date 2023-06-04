@@ -106,11 +106,21 @@ h1 > span {
 
 .btn {
   display: inline-block;
-  background-color: #ff5c8d;
-  color: #fff;
+  /* background-color: #ff5c8d;
+  color: #fff; */
   border-radius: 15px;
   padding: 0.8rem 1.6rem;
   text-decoration: none;
   font-size: 1.2rem;
   font-weight: 600;
+}
+
+.btn--pink {
+  background-color: #ff5c8d;
+  color: #fff;
+}
+
+.btn--pink:hover,
+.btn--pink:active {
+  background-color: #cf456e;
 }
