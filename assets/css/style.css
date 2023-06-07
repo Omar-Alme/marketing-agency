@@ -126,3 +126,11 @@ h1 > span {
 }
 
 /* What We Do Section */
+
+.services-img-side {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
+}
