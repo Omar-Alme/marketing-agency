@@ -87,12 +87,6 @@ h1 > span {
   grid-template-columns: 1fr 1fr;
 }
 
-.hero-heading {
-  line-height: 1;
-  margin-bottom: 2.4rem;
-  font-size: 3.2rem;
-}
-
 .hero-paragraph {
   line-height: 1.9;
   margin-bottom: 4.2rem;
@@ -133,4 +127,51 @@ h1 > span {
   justify-content: center;
 
   position: relative;
+}
+
+/* .services-img-side::before,
+.services-img-side::after {
+  content: "";
+  display: block;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+.services-section {
+  padding: 8.4rem 0;
+}
+
+.services-paragraph {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.services-img {
+  width: 27%;
+}
+
+/* headings */
+
+.heading-1 {
+  line-height: 1;
+  margin-bottom: 2.4rem;
+  font-size: 3.2rem;
+}
+
+.heading-2 {
+}
+
+.heading-3 {
+}
+
+.subheading {
+  display: block;
+  text-transform: uppercase;
+  color: #cf456e;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
 }
