@@ -26,8 +26,8 @@ This website can be accessed by this [link]()
 
 ![Main font - Rubik](documentations/Rubik-400.png)
 ![Rubik weight 500](documentations/Rubik-500.png)
-![Rubik weight 500](documentations/Rubik-600.png)
-![Rubik weight 500](documentations/Rubik-700.png)
+![Rubik weight 600](documentations/Rubik-600.png)
+![Rubik weight 700](documentations/Rubik-700.png)
 
 - Rubik Google Font was used as font through the whole website as it is very readable and very aesthetic. Only the weight of the font was changed througout the website from 400,500,600 and 700
 
@@ -71,3 +71,6 @@ For the illustrations [UnDraw](https://undraw.co/illustrations) was used through
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 - [Kevin bowle on CSS grid and Flex](https://www.youtube.com/@KevinPowell)
+
+- [Dr.Angela Yu web development bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [CodingHeroes resources](https://codingheroes.io/resources/)
