@@ -182,7 +182,7 @@ h3 > span {
 }
 
 .subheading {
-  display: block;
+  display: grid;
   text-transform: uppercase;
   color: #cf456e;
   font-size: 1rem;
@@ -207,5 +207,13 @@ h3 > span {
 }
 
 .grid--center {
+  align-items: center;
+}
+
+/* Testimonials Section */
+.testimonials-section {
+  background-color: #faf0f4;
+  display: grid;
+  grid-template-columns: 55fr 45fr;
   align-items: center;
 }
