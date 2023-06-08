@@ -14,13 +14,49 @@ This website can be accessed by this [link]()
 - awcond
 - third
 
+## Design
+
+### Color Scheme
+
+![Color pallet](documentation/ColorPalette.png)
+
+-
+
+### Typography
+
+![Main Font](documentation/primary_font.png)
+
+- Rubik Google Font was used as font through the whole website as it is very readable and very aesthetic. Only the weight of the font was changed througout the website from 400,500,600 and 700
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the [GitHub repository](https://github.com/Omar-Alme/marketing-agency), navigate to the Settings tab
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here]()
+
+## Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+-     'git clone https://github.com/Omar-Alme/marketing-agency'
+
 ## Credits
 
 - #### Content
 
-  - [case study](https://blog.hubspot.com/marketing/case-study-examples)
-  - [Git untracked file solution](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.)
-  - [remove background](https://www.remove.bg/b/remove-logo-backgrounds)
+  - [case study]https://blog.hubspot.com/marketing/case-study-examples
+  - [bug]https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.
+  - [remove background]https://www.remove.bg/b/remove-logo-backgrounds
   - [Flex box or grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
+  - [Dribble inspiration 1]https://dribbble.com/shots/21027583-LinkLeap-SMMA
+  - [Dribble inspiration 2]https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page
+  - [grid template] https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows
+  - [ReadMe guide] https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 - #### Media
+
+For the illustrations [UnDraw](https://undraw.co/illustrations) was used through out the website.
