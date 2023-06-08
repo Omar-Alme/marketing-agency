@@ -24,7 +24,10 @@ This website can be accessed by this [link]()
 
 ### Typography
 
-![Main Font](documentation/primary_font.png)
+![Main font - Rubik](documentations/Rubik-400.png)
+![Rubik weight 500](documentations/Rubik-500.png)
+![Rubik weight 500](documentations/Rubik-600.png)
+![Rubik weight 500](documentations/Rubik-700.png)
 
 - Rubik Google Font was used as font through the whole website as it is very readable and very aesthetic. Only the weight of the font was changed througout the website from 400,500,600 and 700
 
