@@ -18,7 +18,7 @@ This website can be accessed by this [link]()
 
 ### Color Scheme
 
-![Color pallet](documentation/ColorPalette.png)
+![Color pallet](documentations/ColorPalette.png)
 
 -
 
