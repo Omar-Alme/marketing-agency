@@ -162,13 +162,13 @@ nav {
 } */
 
 .services-section {
-  padding: 8.4rem 0;
+  padding: 4.8rem 10rem;
 }
 
 .services-container {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 6.2rem;
 }
 
 .services-row {
@@ -191,7 +191,7 @@ nav {
 }
 
 .services-img {
-  width: 50%;
+  width: 38%;
 }
 
 /* headings */
