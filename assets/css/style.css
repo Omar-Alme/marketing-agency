@@ -185,6 +185,10 @@ nav {
   justify-content: center;
 }
 
+.reverse-img {
+  float: right;
+}
+
 .services-paragraph {
   font-size: 1rem;
   line-height: 1.7;
