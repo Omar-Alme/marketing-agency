@@ -255,9 +255,22 @@ nav {
 } */
 
 /* Testimonials Section */
+
 .testimonials-section {
+  padding: 3.75rem 0;
+  text-align: center;
   background-color: #faf0f4;
-  display: grid;
-  grid-template-columns: 55fr 45fr;
-  align-items: center;
+}
+
+.testimonials-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.testimonial {
+  max-width: 300px;
+  padding: 1.25rem;
+  margin: 1.25rem;
+  border-radius: 8px;
 }
