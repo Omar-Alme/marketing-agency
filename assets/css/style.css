@@ -258,7 +258,7 @@ nav {
 
 .testimonials-section {
   padding: 3.75rem 0;
-  text-align: center;
+  text-align: left;
   background-color: #faf0f4;
 }
 
@@ -266,6 +266,7 @@ nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 
 .testimonial {
@@ -273,4 +274,6 @@ nav {
   padding: 1.25rem;
   margin: 1.25rem;
   border-radius: 8px;
+  background-color: #524a4e;
+  color: #fff;
 }
