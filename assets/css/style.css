@@ -274,6 +274,26 @@ nav {
   padding: 1.25rem;
   margin: 1.25rem;
   border-radius: 8px;
-  background-color: #524a4e;
-  color: #fff;
+  box-shadow: 0 1px 3px #cf456e;
+  background-color: #fff;
+  color: #524a4e;
+}
+
+.testimonial-text {
+  font-size: 16px;
+  margin-bottom: 10px;
+  line-height: 1;
+}
+
+.testimonial-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1.25rem;
+}
+
+.testimonial-name {
+  font-weight: bold;
+  color: #cf456e;
 }
