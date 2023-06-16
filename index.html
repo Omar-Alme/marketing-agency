@@ -217,7 +217,30 @@
       <!-- Call to action section: Form -->
       <section class="book-a-call-section">
         <div class="cta-container">
-          <form></form>
+          <h2>Join Market<span>Me</span> Today!</h2>
+          <p>Get started with our marketing agency and boost your business.</p>
+          <form class="cta-form"">
+            <div class="form-group">
+              <label for="fullName">Full Name </label>
+              <input type="text" name="fullName" id="fullName" required aria-label="Full Name">
+            </div>
+            <div class="form-group">
+              <label for="email">Email </label>
+              <input type="email" name="email" id="email" required aria-label="Email">
+            </div>
+            <div class="form-group">
+              <label for="pricing">Select Pricing Plan </label>
+              <select name="pricing" id="pricing" required aria-label="Pricing Options">
+                <option value="" disabled selected>Select preferred plan</option>
+                <option value="basic">Basic Plan</option>
+                <option value="premium">Premium Plan</option>
+                <option value="fullpackage">Full Package Plan</option>
+              </select>
+             </div>
+             
+              <button type="submit">Book a call</button>
+            
+          </form>
         </div>
       </section>
     </main>
