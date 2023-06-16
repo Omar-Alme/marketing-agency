@@ -80,7 +80,7 @@ nav {
   font-weight: 500;
   font-size: 17px;
   margin-left: 3em;
-  /* padding: 0 20px; */
+  padding: 1.75vw;
 }
 
 .nav-link:hover,
@@ -398,3 +398,5 @@ nav {
   font-size: 14px;
   color: #524a4e;
 }
+
+/* Book a call section: cta */
