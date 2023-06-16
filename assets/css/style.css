@@ -102,7 +102,7 @@ nav {
 .hero {
   max-width: 100%;
   margin: 0 auto;
-  padding: 0 2.5rem;
+  padding: 7rem 4rem;
   display: grid;
   align-items: center;
   grid-template-columns: 1fr 1fr;
@@ -195,7 +195,7 @@ nav {
 }
 
 .services-img {
-  width: 38%;
+  width: 45%;
 }
 
 /* headings */
