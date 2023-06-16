@@ -257,7 +257,11 @@ nav {
 /* Testimonials Section */
 
 .testimonials-section {
-  padding: 3.75rem 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4.8rem 0;
   text-align: left;
   background-color: #faf0f4;
 }
@@ -296,4 +300,42 @@ nav {
 .testimonial-name {
   font-weight: bold;
   color: #cf456e;
+}
+
+/* Pricing Section */
+
+.pricing-section {
+  width: 100%;
+  margin: 0 auto;
+  padding: 4.8rem 10rem;
+}
+
+/* Footer */
+
+.sticky-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f9f9f9;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-links {
+  margin-right: 10px;
+}
+
+.social-media-links a {
+  color: #333;
+  font-size: 24px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.copy-right {
+  font-size: 14px;
+  color: #777;
 }
