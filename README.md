@@ -134,7 +134,8 @@ This website can be accessed by this [link]()
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
 - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items on the pages.
-- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make hero section page responsive.
+- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make the hero section responsive.
+- [CSS Grid-Template-columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns) - was used in hero section.
 - [CSS roots](https://developer.mozilla.org/en-US/docs/Web/CSS/:root) was used to declaring global CSS variables and apply them throughout the project. 
 - [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
 - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
@@ -148,7 +149,12 @@ This website can be accessed by this [link]()
 
 ![Color pallet](documentations/ColorPalette.png)
 
--
+- The colour pink has many psychological effects on the human brain. It is associated with love and kindess and optimism. It was used throughout the project with 3 different shades mostly light. This was implemented to give the user a sense of comfort and trust, it is also very readible and easy on the eye which will keep the user comfortable scrolling through the website.
+
+- The colour brown is associated with calmness and comfort. This contrast with the pink will keep the user happy and calm. 
+
+- As the goal of the website to sell a service, trust is needed and simplicity for a clear mind for the user. The psychological affects of these two colours combines will make the user feel at home and optimistic that MarketMe will deliver the results and can be trusted.
+
 
 ### Typography
 
