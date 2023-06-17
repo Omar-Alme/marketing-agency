@@ -56,6 +56,41 @@ h3 > span {
   padding: 0 2.5rem;
 }
 
+/* headings */
+.heading-1,
+.heading-2,
+.heading-3 {
+  font-weight: 700;
+  color: #524a4e;
+}
+
+.heading-1 {
+  line-height: 1;
+  margin-bottom: 2.4rem;
+  font-size: 1.8rem;
+}
+
+.heading-2 {
+  line-height: 1.2;
+  margin-bottom: 5.4rem;
+  font-size: 1.3rem;
+}
+
+.heading-3 {
+  line-height: 1.2;
+  margin-bottom: 2.4rem;
+  font-size: 1.3rem;
+}
+
+.subheading {
+  display: grid;
+  text-transform: uppercase;
+  color: #cf456e;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
 /* Navigation Bar */
 nav {
   width: 100%;
@@ -188,41 +223,6 @@ nav {
 
 .services-img {
   width: 45%;
-}
-
-/* headings */
-.heading-1,
-.heading-2,
-.heading-3 {
-  font-weight: 700;
-  color: #524a4e;
-}
-
-.heading-1 {
-  line-height: 1;
-  margin-bottom: 2.4rem;
-  font-size: 1.8rem;
-}
-
-.heading-2 {
-  line-height: 1.2;
-  margin-bottom: 5.4rem;
-  font-size: 1.3rem;
-}
-
-.heading-3 {
-  line-height: 1.2;
-  margin-bottom: 2.4rem;
-  font-size: 1.3rem;
-}
-
-.subheading {
-  display: grid;
-  text-transform: uppercase;
-  color: #cf456e;
-  font-size: 1rem;
-  font-weight: 500;
-  margin-bottom: 1rem;
 }
 
 /* Testimonials Section */
