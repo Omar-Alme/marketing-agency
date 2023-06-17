@@ -96,6 +96,21 @@ This website can be accessed by this [link]()
         * On mobile & tablets: All elements are centered and aligned in one column.
         ![Pricing Section Tablets](documentations/pricing-section-tablet.png)
 
+### Book a call Section
+ + #### Last Section
+    - Form with inputs and call to action button
+    - All inputs fields are customised
+    - All inputs are set so it is required to fill them
+    - Book a call button changes coour layout on hover
+    - It has a select dropdown menu for user to select from the pricing plans options
+       - Goal of Section
+          - Allows user to fill a form and book a call.         
+    ![Book a call Section](documentations/form.png)
+
+    - Responsiveness:
+        * Responsive in all screens.
+
+      
 
 
    
