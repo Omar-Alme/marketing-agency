@@ -40,6 +40,18 @@ This website can be accessed by this [link]()
         
             - When the hamburger menu is clicked, there is dropdown menu with the links in the same order.
             ![NavBar Mobile Open](documentation/navbar_mobile_open.png) -->
+### Hero Section
+ + #### First Section
+    - Seperated into two column sections usising grid. One column is the textarea with the heading and paragraph and a call to action button. The other is the image area.
+       - Goal of Section
+          - Shows the user main purpose of the website.
+          - Explains the service the website offers
+          - Invites and Redirects user to call to action section of the website to fill out a form.
+    ![Hero Section](documentations/hero-section.png)
+
+    - Responsiveness:
+        * On tablets: All elements are centered and is split into two colums, the MarketMe on top and the navigation links right under it.
+        ![Hero Section Tablets](documentations/hero-section-tablet.png)
 
 
 
@@ -80,18 +92,16 @@ In your IDE Terminal, type the following command to clone my repository:
 
 - #### Content
 
-  - [case study](https://blog.hubspot.com/marketing/case-study-examples)
   - [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.)
   - [remove background](https://www.remove.bg/b/remove-logo-backgrounds)
   - [Flex box or grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
   - [Dribble inspiration 2](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page)
-  - [grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
-  - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
-  - [Scroll Up Page Button](https://www.youtube.com/watch?v=Vef9bxTilCU)
-  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [CodingHeroes resources](https://codingheroes.io/resources/)
+  - [Grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
+  - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) Cheatsheet for R
+  - [Scroll Up Page Button](https://www.youtube.com/watch?v=Vef9bxTilCU) This video helped inspire to implement the scroll up button feature on MarketMe website.
+  - [Awesome README](https://github.com/matiassingers/awesome-readme)This was used to understand how to write a better ReadMe file and for layout ideas.
+  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) This was used to understand how to write a better ReadMe file and for layout ideas.
+  - [CodingHeroes resources](https://codingheroes.io/resources/)Coding heroes includes a bunch of other external resources for web developers that can be helpful for them.
 
 - #### Media
 
