@@ -481,6 +481,21 @@ nav {
   color: #524a4e;
 }
 
+/* Scroll to top of page button */
+.scroll-up-btn {
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  bottom: 40px;
+  right: 50px;
+  text-decoration: none;
+  background-color: #cf456e;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 1.2rem;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
   .book-a-call-section {
