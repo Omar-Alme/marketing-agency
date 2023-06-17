@@ -141,6 +141,8 @@ This website can be accessed by this [link]()
 - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [Git](https://git-scm.com/) was used for the version control of the website.
 - [GitHub](https://github.com/) was used to host the website.
+- [remove background](https://www.remove.bg/b/remove-logo-backgrounds) was used to remove backgrounds from images
+
 
 
 ## Design
@@ -186,25 +188,35 @@ In your IDE Terminal, type the following command to clone my repository:
 - #### Content
 
   - [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.)
-  - [remove background](https://www.remove.bg/b/remove-logo-backgrounds)
-  - [Flex box or grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
-  - [Dribble inspiration 2](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page)
-  - [Grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
+  - [Dribble inspiration 2](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page) inspired some of the website design ideas
   - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) Cheatsheet for R
   - [Scroll Up Page Button](https://www.youtube.com/watch?v=Vef9bxTilCU) This video helped inspire to implement the scroll up button feature on MarketMe website.
   - [Awesome README](https://github.com/matiassingers/awesome-readme)This was used to understand how to write a better ReadMe file and for layout ideas.
   - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) This was used to understand how to write a better ReadMe file and for layout ideas.
   - [CodingHeroes resources](https://codingheroes.io/resources/)Coding heroes includes a bunch of other external resources for web developers that can be helpful for them.
+  - [Colour psychology](https://www.vandelaydesign.com/the-psychology-of-color-in-web-design/#:~:text=The%20color%20is%20known%20to,very%20strongly%20with%20youthful%20femininity.) gave an insight og the psychology of colours in web development.
 
 - #### Media
 
 For the illustrations [UnDraw](https://undraw.co/illustrations) was used through out the website.
 
-For the testimonials sectiion [Random user generator](https://randomuser.me/photos) was used to get the 3 photos.
+For the testimonials section [Random user generator](https://randomuser.me/photos) was used to get the 3 photos.
+
+  + Hero image:
+       - [1st image UnDraw](documentations/hero.svg)
+
+  + Services Section: 
+        - [1st image UnDraw](documentations/web-dev-services.svg)
+        - [2nd image UnDraw](documentations/lead-gen.svg)
+        - [3rd image Undraw](documentations/paid-marketing.svg)
+
+  + Testimonials Section:
 
 ## Acknowledgements
 
 - [Kevin bowle on CSS grid and Flex](https://www.youtube.com/@KevinPowell)
 
 - [Dr.Angela Yu web development bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+- [Juliaa Konovalova](https://github.com/IuliiaKonovalova) was my mentor throughout the project, inspired some of the technologies and ideas for this project.
 
