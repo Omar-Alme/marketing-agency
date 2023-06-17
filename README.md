@@ -4,7 +4,7 @@
 
 MarketMe is a website that provides services for business owners and brands to increase their exposure online and increase the number of sales and clients for their business. Visitors
 
-This website can be accessed by this [link]()
+This website can be accessed by this [link](https://omar-alme.github.io/marketing-agency/)
 
 ## User Stories
 
@@ -174,7 +174,7 @@ This website can be accessed by this [link]()
   - From the source section drop-down menu, select the **Main** Branch, then click "Save".
   - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here]()
+The live link can be found [here](https://omar-alme.github.io/marketing-agency/)
 
 ## Local Deployment
 
