@@ -85,17 +85,18 @@ This website can be accessed by this [link]()
  + #### Fourth Section
     - Flex-box is used for the Pricing cards
     - 3 pricing cards in this section
-    - Each with a header, price and currency, and list of features that come with the different plans.
+    - Each with a header, price and currency, list of features that come with the different plans, and call to action button.
        - Goal of Section
           - Give the user a variety of prices to choose from that are reasonable to market demand.
           - Give user options so user is comfortable picking what suits the budget.
+          - Redirects user to book a call with MarketMe.
     ![Pricing Section](documentations/pricing-section.png)
 
     - Responsiveness:
         * On mobile & tablets: All elements are centered and aligned in one column.
         ![Pricing Section Tablets](documentations/pricing-section-tablet.png)
-        
-                     
+
+
 
    
 
