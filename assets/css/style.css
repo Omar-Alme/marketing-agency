@@ -28,7 +28,7 @@ main {
   /* flex: 1 0 auto; */
 }
 
-header > a {
+header>a {
   text-decoration: none;
 }
 
@@ -36,9 +36,9 @@ h1 {
   color: #524a4e;
 }
 
-h1 > span,
-h2 > span,
-h3 > span {
+h1>span,
+h2>span,
+h3>span {
   color: #ff5c8d;
 }
 
@@ -566,6 +566,8 @@ nav {
     padding: 0;
   }
 }
+
+@media (max-width: 658px) {}
 
 @media (max-width: 655px) {
   .nav-link {
