@@ -42,7 +42,7 @@ This website can be accessed by this [link]()
             ![NavBar Mobile Open](documentation/navbar_mobile_open.png) -->
 ### Hero Section
  + #### First Section
-    - Seperated into two column sections usising grid. One column is the textarea with the heading and paragraph and a call to action button. The other is the image area.
+    - Seperated into two column sections using grid. One column is the textarea with the heading and paragraph and a call to action button. The other is the image area.
        - Goal of Section
           - Shows the user main purpose of the website.
           - Explains the service the website offers
@@ -52,6 +52,20 @@ This website can be accessed by this [link]()
     - Responsiveness:
         * On small tablets: All elements are centered and aligned in one column. Heading and paragraph, Call to action button and image area last.
         ![Hero Section Tablets](documentations/hero-section-tablet.png)
+
+### Services Section
+ + #### Second Section
+    - Flex-box was used for the services
+    - Seperated into 3 rows, each row with 2 divs (image and service provided)
+    - Flex reverse row is used for the second service to add a beautiful mirror design to the website.
+       - Goal of Section
+          - Shows the user the service provided by the website.
+          - Explains the service the website offers
+    ![Services Section](documentations/services-section.png)
+
+    - Responsiveness:
+        * On small tablets: All elements are centered and aligned in one column.
+        ![Services Section Tablets](documentations/)        
 
 
 
