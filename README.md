@@ -55,7 +55,6 @@ In your IDE Terminal, type the following command to clone my repository:
   - [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.)
   - [remove background](https://www.remove.bg/b/remove-logo-backgrounds)
   - [Flex box or grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
-  - [Dribble inspiration 1](https://dribbble.com/shots/21027583-LinkLeap-SMMA)
   - [Dribble inspiration 2](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page)
   - [grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
   - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)

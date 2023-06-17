@@ -220,6 +220,7 @@ nav {
 .services-paragraph {
   font-size: 1rem;
   line-height: 1.7;
+  width: 85%;
 }
 
 .services-img {
@@ -269,8 +270,8 @@ nav {
 }
 
 .testimonial-img {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 1.25rem;
@@ -279,6 +280,7 @@ nav {
 .testimonial-name {
   font-weight: bold;
   color: #cf456e;
+  margin-top: 10px;
 }
 
 /* Pricing Section */
@@ -327,7 +329,7 @@ nav {
 }
 
 .pricing-card-price {
-  font-size: 36px;
+  font-size: 32px;
   font-weight: bold;
   color: #524a4e;
 }
@@ -364,36 +366,6 @@ nav {
 /* Font Awesome icons */
 .fas {
   margin-right: 5px;
-}
-
-/* Footer */
-.sticky-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #faf0f4;
-  padding: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.social-media-links {
-  margin-right: 10px;
-}
-
-.social-media-links a {
-  color: #524a4e;
-  font-size: 24px;
-  margin-right: 10px;
-  padding: 10px;
-  text-decoration: none;
-}
-
-.copy-right {
-  font-size: 14px;
-  color: #524a4e;
 }
 
 /* Book a call section: cta */
@@ -481,6 +453,37 @@ nav {
   background-color: #ffffff;
   color: #524a4e;
 }
+
+/* Footer */
+.sticky-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #faf0f4;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-links {
+  margin-right: 10px;
+}
+
+.social-media-links a {
+  color: #524a4e;
+  font-size: 24px;
+  margin-right: 10px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.copy-right {
+  font-size: 14px;
+  color: #524a4e;
+}
+
 
 /* Scroll to top of page button */
 .scroll-up-btn {
@@ -606,5 +609,16 @@ nav {
 
   .reverse-img {
     float: none;
+  }
+}
+
+@media (max-width:454px) {
+  .sticky-footer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .social-media-links {
+    margin-bottom: 15px;
   }
 }
