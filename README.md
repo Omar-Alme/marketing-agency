@@ -50,12 +50,12 @@ This website can be accessed by this [link]()
     ![Hero Section](documentations/hero-section.png)
 
     - Responsiveness:
-        * On small tablets: All elements are centered and aligned in one column. Heading and paragraph, Call to action button and image area last.
+        * On mobiles & small tablets: All elements are centered and aligned in one column. Heading and paragraph, Call to action button and image area last.
         ![Hero Section Tablets](documentations/hero-section-tablet.png)
 
 ### Services Section
  + #### Second Section
-    - Flex-box was used for the services
+    - Flex-box is used for the services
     - Seperated into 3 rows, each row with 2 divs (image and service provided)
     - Flex reverse row is used for the second service to add a beautiful mirror design to the website.
        - Goal of Section
@@ -64,8 +64,26 @@ This website can be accessed by this [link]()
     ![Services Section](documentations/services-section.png)
 
     - Responsiveness:
-        * On small tablets: All elements are centered and aligned in one column.
-        ![Services Section Tablets](documentations/)        
+        * On mobile & small tablets: All elements are centered and aligned in one column.
+        ![Services Section Tablets](documentations/)
+
+### Testimonials Section
+ + #### Third Section
+    - Flex-box is used for the testimonials
+    - 3 testimonial boxes in one row
+    - Each with an image of the client, clients experince with MartketMe, and name and title of client.
+       - Goal of Section
+          - Shows the user client testimonials to make the website more trustworthy.
+          - Gives marketMe credibility.
+    ![Services Section](documentations/testimonial-section.png)
+
+    - Responsiveness:
+        * On mobile & tablets: All elements are centered and aligned in one column.
+        ![Services Section Tablets](documentations/testimonial-section-tablet.png)     
+
+   
+
+
 
 
 
