@@ -50,7 +50,7 @@ This website can be accessed by this [link]()
     ![Hero Section](documentations/hero-section.png)
 
     - Responsiveness:
-        * On tablets: All elements are centered and is split into two colums, the MarketMe on top and the navigation links right under it.
+        * On small tablets: All elements are centered and aligned in one column. Heading and paragraph, Call to action button and image area last.
         ![Hero Section Tablets](documentations/hero-section-tablet.png)
 
 
