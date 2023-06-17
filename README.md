@@ -1,4 +1,4 @@
-![MarketMe header text/logo](./documentations/Marketme.png "MarketMe logo")
+![MarketMe header text/logo](documentations/Marketme.png "MarketMe logo")
 
 # MarketMe
 
@@ -60,6 +60,10 @@ In your IDE Terminal, type the following command to clone my repository:
   - [grid template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
   - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
   - [Scroll Up Page Button](https://www.youtube.com/watch?v=Vef9bxTilCU)
+  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [CodingHeroes resources](https://codingheroes.io/resources/)
 
 - #### Media
 
@@ -69,11 +73,7 @@ For the testimonials sectiion [Random user generator](https://randomuser.me/phot
 
 ## Acknowledgements
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
 - [Kevin bowle on CSS grid and Flex](https://www.youtube.com/@KevinPowell)
 
 - [Dr.Angela Yu web development bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- [CodingHeroes resources](https://codingheroes.io/resources/)
+
