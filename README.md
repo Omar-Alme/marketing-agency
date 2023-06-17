@@ -110,7 +110,23 @@ This website can be accessed by this [link]()
     - Responsiveness:
         * Responsive in all screens.
 
-      
+### Footer
+ + #### Sticky footer
+    - Sticky footer as seen in all sections. Has a fixed position
+    - Includes social platforms for MarketMe
+    - Includes copyrights
+       - Goal of Section
+          - Redirects users to social media links for MarketMe.         
+    ![Footer Section](documentations/sticky-footer.png)
+
+    - Responsiveness:
+        * Responsive in all screens but changes style for mobile. 
+    ![Footer Mobile](documentations/footer-mobile.png)
+
+### Scroll up button 
+  - Fix position and sticky
+  - Floating at the bottom right of the page 
+  - Goal is to redirect user back to the top of the page from any section.     
 
 
    
