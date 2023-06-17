@@ -8,11 +8,16 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 
 ## User Stories
 
-### First time visior goals:
+### Visior goals:
 
-- First
-- awcond
-- third
+- As a first time visitor, I want to easily see the purpose of the website, so I can know if the agency offers what I need.
+- As a first time visitor, I want to clearly understand the services provided by the website, so I can know if it suits my demands.
+- As a first time visitor, I want to see the pricing plans offered by the website, so I can see if it is within my budget.
+- As a first time visiot, I want to see that previous customers used the services, so I can see that the agency is trustworthy.
+
+- As a returning visitor, I want to book a demo call easily, So i can understand the service i picked meet my requirements
+- As a returning Visitor, I want to find a way to get in contact with the agency, so that I can ask additional questions and personalise a plan that best suits me.
+- As a returning visitor, I want to see testimonials and experience of other clients who used the services, so that i can see that the agency is reliable and delivers results
 
 ## Features
 
@@ -166,6 +171,31 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 ![Rubik weight 700](documentations/Rubik-700.png)
 
 - Rubik Google Font was used as font through the whole website as it is very readable and very aesthetic. Only the weight of the font was changed througout the website from 400,500,600 and 700
+
+
+## Validator testing
++ ### HTML
+  #### Main Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+
+    ![MarketMe HTML Validator]()
+
+  #### Response Page  
+
+    ![Response Page HTML Validator]()
+
++ ### CSS 
+   No errors or warnings were found when passing through the official W3C (Jigsaw) validator:
+
+
+
++ ### Accessibility and performance 
+    - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
+    
+  #### Main page
+
+  ![Main Page Lighthouse]()
 
 ## Deployment
 
