@@ -14,6 +14,35 @@ This website can be accessed by this [link]()
 - awcond
 - third
 
+## Features
+
+### Navigation Bar
++ #### Navigation
+    - Positioned at the top of the page.
+    - Contains logo of the company on the left side. (MarketMe)
+    - Contains navigation links on the right side:
+        * What we do - This link redirects the user to our services section of MarketMe.
+        * Testimonials - This link redirects the user to our testimonials section of MartketMe
+        * Pricing - This link redirects the user to our pricings section of MartketMe
+        * Book a call - This button redirects you to Call to action section of MarketMe
+    - The links have animated hover effect where the colour changes to a pink.
+    - The Book a call button link changes to a darker shade of pink when you hover over it. 
+    - The navigation is clear and easy to understand for the user.
+    ![Navigation Bar](documentations/nav-bar.png)
+
+    - Responsiveness:
+        * On tablets: All elements are centered and is split into two colums, the MarketMe on top and the navigation links right under it.
+        ![NavBar Tablets](documentations/nav-bar-tablet.png)
+
+        <!-- * On mobile devices: 
+            - navigation bar filled with the logo in the center and a hamburger menu implemented on the left side of the navigation bar.      
+            ![NavBar Mobile Closed](documentation/navbar_mobile_closed.png)
+        
+            - When the hamburger menu is clicked, there is dropdown menu with the links in the same order.
+            ![NavBar Mobile Open](documentation/navbar_mobile_open.png) -->
+
+
+
 ## Design
 
 ### Color Scheme
