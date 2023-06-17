@@ -20,18 +20,19 @@
       </a>
       <!-- Navigation bar -->
       <nav>
+        <!-- Navigation links to different sections -->
         <ul class="nav-list">
           <li>
-            <a class="nav-link" href="#what-we-do">What we do</a>
+            <a class="nav-link" href="#services">What we do</a>
           </li>
           <li>
-            <a class="nav-link" href="#Testimonials">Testimonials</a>
+            <a class="nav-link" href="#testimonials">Testimonials</a>
           </li>
           <li>
             <a class="nav-link" href="#pricing">Pricing</a>
           </li>
           <li>
-            <a class="nav-link nav-btn" href="#book-a-call">Book a call</a>
+            <a class="nav-link nav-btn" href="#cta">Book a call</a>
           </li>
         </ul>
       </nav>
@@ -50,7 +51,7 @@
         <!-- End of hero section -->
       </section>
       <!-- services section  -->
-      <section class="services-section">
+      <section id="services" class="services-section">
         <div class="container">
           <span class="subheading">Our services</span>
           <h2 class="heading-2"> Choose from our services and we will deliver results </h2>
@@ -100,7 +101,7 @@
         </div>
       </section>   
        <!--Testimonial Section  -->
-      <section class="testimonials-section">
+      <section id="testimonials" class="testimonials-section">
         <div class="testimonial-headers">
           <!-- Heading and subheading for testimonial section -->
           <span class="subheading">Testimonials</span>
@@ -129,7 +130,7 @@
         </div>
       </section>
       <!-- Pricing Section with pricing cards -->
-      <section class="pricing-section">
+      <section id="pricing" class="pricing-section">
         <div>
           <!-- Heading and subheading for pricing section -->
           <span class="subheading">Pricing</span>
@@ -159,7 +160,7 @@
                 </li>
               </ul>
               <!-- Pricing card button -->
-              <a href="#" class="pricing-card-button">Sign Up</a>
+              <a href="#cta" class="pricing-card-button">Sign Up</a>
             </div>
             <!-- Second pricing card: Premium -->
             <div class="pricing-card">
@@ -184,7 +185,7 @@
                 </li>
               </ul>
               <!-- Pricing card button -->
-              <a href="#" class="pricing-card-button">Sign Up</a>
+              <a href="#cta" class="pricing-card-button">Sign Up</a>
             </div>
             <!-- Third pricing card : Full Package -->
             <div class="pricing-card">
@@ -209,26 +210,28 @@
                 </li>
               </ul>
               <!-- Pricing card button -->
-              <a href="#" class="pricing-card-button">Sign Up</a>
+              <a href="#cta" class="pricing-card-button">Sign Up</a>
             </div>
+            <p><em>Book a call with us and we can discuss a more personlised plan that will fit your needs.</em></p>
           </div>
           <!-- End of pricing section -->
       </section>
       <!-- Call to action section: Form -->
-      <section class="book-a-call-section">
+      <section id="cta" class="book-a-call-section">
         <div class="cta-container">
-          <h2>Join Market<span>Me</span> Today!</h2>
+          <h2>Join Market<span class="cta-span">Me</span> Today!</h2>
           <p>Get started with our marketing agency and boost your business.</p>
           <form class="cta-form"">
             <div class="form-group">
               <label for="fullName">Full Name </label>
-              <input type="text" name="fullName" id="fullName" required aria-label="Full Name">
+              <input type="text" name="fullName" id="fullName" placeholder="Will Smith" required aria-label="Full Name">
             </div>
             <div class="form-group">
               <label for="email">Email </label>
-              <input type="email" name="email" id="email" required aria-label="Email">
+              <input type="email" name="email" id="email" placeholder="me@example.com" required aria-label="Email">
             </div>
             <div class="form-group">
+              <!-- Dropdown selection option -->
               <label for="pricing">Select Pricing Plan </label>
               <select name="pricing" id="pricing" required aria-label="Pricing Options">
                 <option value="" disabled selected>Select preferred plan</option>
@@ -237,9 +240,7 @@
                 <option value="fullpackage">Full Package Plan</option>
               </select>
              </div>
-             
               <button type="submit">Book a call</button>
-            
           </form>
         </div>
       </section>
