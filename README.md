@@ -188,13 +188,13 @@ In your IDE Terminal, type the following command to clone my repository:
 - #### Content
 
   - [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.)
-  - [Dribble inspiration 2](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page) inspired some of the website design ideas
-  - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) Cheatsheet for R
+  - [Dribble inspiration](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page) Inspired some of the website design ideas
+  - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) Cheatsheet for ReadMe
   - [Scroll Up Page Button](https://www.youtube.com/watch?v=Vef9bxTilCU) This video helped inspire to implement the scroll up button feature on MarketMe website.
-  - [Awesome README](https://github.com/matiassingers/awesome-readme)This was used to understand how to write a better ReadMe file and for layout ideas.
+  - [Awesome README](https://github.com/matiassingers/awesome-readme) This was used to understand how to write a better ReadMe file and for layout ideas.
   - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) This was used to understand how to write a better ReadMe file and for layout ideas.
-  - [CodingHeroes resources](https://codingheroes.io/resources/)Coding heroes includes a bunch of other external resources for web developers that can be helpful for them.
-  - [Colour psychology](https://www.vandelaydesign.com/the-psychology-of-color-in-web-design/#:~:text=The%20color%20is%20known%20to,very%20strongly%20with%20youthful%20femininity.) gave an insight og the psychology of colours in web development.
+  - [CodingHeroes resources](https://codingheroes.io/resources/) Coding heroes includes a bunch of other external resources for web developers that can be helpful for them.
+  - [Colour psychology](https://www.vandelaydesign.com/the-psychology-of-color-in-web-design/#:~:text=The%20color%20is%20known%20to,very%20strongly%20with%20youthful%20femininity.) Gave an insight on the psychology of colours in web development.
 
 - #### Media
 
@@ -202,15 +202,21 @@ For the illustrations [UnDraw](https://undraw.co/illustrations) was used through
 
 For the testimonials section [Random user generator](https://randomuser.me/photos) was used to get the 3 photos.
 
+The images for the websites don't have specific URL's to them, they were saved from the websites above.
+
   + Hero image:
-       - [1st image UnDraw](documentations/hero.svg)
+      - [1st image UnDraw](documentations/hero.svg)
 
   + Services Section: 
-        - [1st image UnDraw](documentations/web-dev-services.svg)
-        - [2nd image UnDraw](documentations/lead-gen.svg)
-        - [3rd image Undraw](documentations/paid-marketing.svg)
-
-  + Testimonials Section:
+      - [1st image UnDraw](documentations/web-dev-services.svg)
+      - [2nd image UnDraw](documentations/lead-gen.svg)
+      - [3rd image Undraw](documentations/paid-marketing.svg)
+ 
+  + Services Section: 
+      - [1st image Randomuser](documentations/ahmed.webp)
+      - [2nd image Randomuser](documentations/jack.webp)
+      - [3rd image Randomuser](documentations/rob.webp)  
+  
 
 ## Acknowledgements
 
