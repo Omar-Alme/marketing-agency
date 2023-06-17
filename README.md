@@ -45,7 +45,7 @@ The live link can be found [here]()
 In order to make a local copy of this project, you can clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
--     'git clone https://github.com/Omar-Alme/marketing-agency'
+-      git clone https://github.com/Omar-Alme/marketing-agency
 
 ## Credits
 
