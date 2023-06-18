@@ -180,6 +180,13 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 - [Wireframe. Tablet Screen](documentations/tablet-marketme.png)
 - [Wireframe. Mobile Screen](documentations/mobile-marketme.png)
 
+
+### Bugs
++ ##### Solved bugs
+    1. Because i cloned repo in home directory, my terminal was not allowing me to do anything because of untracked files.
+    
+    Solution: [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.) By moving the untracked file to gitignore, I solved this bug.
+
 ## Validator testing
 + ### HTML
   #### Index Page
@@ -229,7 +236,7 @@ In your IDE Terminal, type the following command to clone my repository:
 
 - #### Content
 
-  - [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.)
+  - [Figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
   - [Dribble inspiration](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page) Inspired some of the website design ideas
   - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) Cheatsheet for ReadMe
   - [Scroll Up Page Button](https://www.youtube.com/watch?v=Vef9bxTilCU) This video helped inspire to implement the scroll up button feature on MarketMe website.
