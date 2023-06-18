@@ -145,7 +145,7 @@ Here is a link to preview the website on all screens [Responsive Preview](https:
 
     - Responsiveness:
         * Responsive in all screens.
-        
+
     ![Response mobile page](documentations/response-page-mobile.png)
     
    
@@ -199,6 +199,37 @@ Here is a link to preview the website on all screens [Responsive Preview](https:
 
 No wireframes for response page. As the original idea did not need this page, however later on realised a response page would be useful for call to action section to do something.
 
+## Testing
+
+In order to confirm the correct functionality, responsiveness, and appearance:
+
++ The website was tested on the following browsers: Chrome, Firefox, Safari.
+
+    - Chrome:
+
+    ![Chrome](documentations/chrome-preview.png)
+    ![Chrome](documentations/chrome-response-preview.png)
+
+    - FireFox:
+
+    ![FireFox](documentations/firefox-preview.png)
+    ![FireFox](documentations/firefox-response-preview.png)
+
+
+    - Safari:
+
+    ![Safari](documentations/safari-preview.png)
+    ![Safari](documentations/safari-response-preview.png)
+
+
+
++ The website was checked by devtools implemented in Firefox and Chrome browsers.
+
++ Everything is working accordingly in all browsers
+
+- Tested by other users as well by friends and family.
+
+    
 ## Manual Testing
 
 Manual testing was performed on the following devices:
