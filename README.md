@@ -70,7 +70,7 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 
     - Responsiveness:
         * On mobile & small tablets: All elements are centered and aligned in one column.
-        ![Services Section Tablets](documentations/)
+        ![Services Section Tablets](documentations/services-mobile.png)
 
 ### Testimonials Section
  + #### Third Section
