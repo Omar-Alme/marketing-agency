@@ -225,6 +225,7 @@ In your IDE Terminal, type the following command to clone my repository:
   - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) This was used to understand how to write a better ReadMe file and for layout ideas.
   - [CodingHeroes resources](https://codingheroes.io/resources/) Coding heroes includes a bunch of other external resources for web developers that can be helpful for them.
   - [Colour psychology](https://www.vandelaydesign.com/the-psychology-of-color-in-web-design/#:~:text=The%20color%20is%20known%20to,very%20strongly%20with%20youthful%20femininity.) Gave an insight on the psychology of colours in web development.
+  -[Linking html to a section in another html page](https://stackoverflow.com/questions/17687328/getting-a-link-to-go-to-a-specific-section-on-another-page) helped redirect me to desired section in index.html from response.html.
 
 - #### Media
 
