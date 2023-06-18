@@ -145,7 +145,7 @@ Here is a link to preview the website on all screens [Responsive Preview](https:
 
     - Responsiveness:
         * Responsive in all screens.
-    ![Response mobile page](documentations/response-page.png)
+    ![Response mobile page](documentations/response-page-mobile.png)
     
    
 ## Technologies Used
