@@ -183,13 +183,7 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 
 No wireframes for response page. As the original idea did not need this page, however later on realised a response page would be useful for call to action section to do something.
 
-### Bugs
-+ ##### Solved bugs
-    1. Because i cloned repo in home directory, my terminal was not allowing me to do anything because of untracked files.
-    
-    Solution: [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.) By moving the untracked file to gitignore, I solved this bug.
-
-### Manual Testing
+## Manual Testing
 
 Manual testing was performed on the following devices:
 
@@ -253,12 +247,20 @@ Tthe following browsers were used to test:
 
 The live link can be found [here](https://omar-alme.github.io/marketing-agency/)
 
+
 ## Local Deployment
 
 In order to make a local copy of this project, you can clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
 -      git clone https://github.com/Omar-Alme/marketing-agency
+
+### Bugs
++ #### Solved bugs
+    1. Because i cloned repo in home directory, my terminal was not allowing me to do anything because of untracked files.
+    
+    Solution: [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.) By moving the untracked file to gitignore, I solved this bug.
+
 
 ## Credits
 
