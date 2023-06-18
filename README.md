@@ -146,7 +146,8 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [Git](https://git-scm.com/) was used for the version control of the website.
 - [GitHub](https://github.com/) was used to host the website.
-- [remove background](https://www.remove.bg/b/remove-logo-backgrounds) was used to remove backgrounds from images
+- [remove background](https://www.remove.bg/b/remove-logo-backgrounds) was used to remove backgrounds from images.
+- [FontAwesome](https://fontawesome.com/) used for icons in the pricing cards.
 
 
 
@@ -180,6 +181,7 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 - [Wireframe. Tablet Screen](documentations/tablet-marketme.png)
 - [Wireframe. Mobile Screen](documentations/mobile-marketme.png)
 
+No wireframes for response page. As the original idea did not need this page, however later on realised a response page would be useful for call to action section to do something.
 
 ### Bugs
 + ##### Solved bugs
@@ -187,11 +189,37 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
     
     Solution: [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.) By moving the untracked file to gitignore, I solved this bug.
 
+### Manual Testing
+
+Manual testing was performed on the following devices:
+
+* Laptop:
+  * Macbook pro
+* Mobile Devices:
+  * iPhone 13 pro.
+  
+Tthe following browsers were used to test:
+
+* Google Chrome
+* Safari
+* Firefox
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Nav links - hover effect | All nav links should change from brown colour to pink when hovered | Hover over each nav link | Each nav link displayed the correct colour when hovered over | Pass |
+| All pink buttons - hover effect | Button should change to a darker shade of pink when hovered over |  Hover over all pink buttons  | Changes to darker shade of pink when hovered over | Pass |
+| All pink buttons | Directs the user to the Book a call form section | Clicked on all pink buttons | Scrolls to the bottom of the page to the Book a call form | Pass |
+| Form button - hover efffect | Brown button with white text and When hovered should change to white button and brown text | Hover over button | Changes to white button and brown text when hovered | Pass |
+| Full name Input | Full name entered, if not error "Please fill in" should appear | Click button without entering full name | Error asking the user to fill in the full name input appears | Pass |
+| Select a plan Dropdown | Options to show up when dropwdown button clicked | Click on dropdown | All options show up and user must select one | Pass |
+| Form button - after filling form | Redirect user to the respone.html page | Click on button after filling form correctly | User is redirected to response.html page | Pass |
+
+
 ## Validator testing
 + ### HTML
   #### Index Page
     - No errors or warnings were found when passing through the official W3C validator.
-
 
     ![MarketMe HTML Validator](documentations/html-validation.png)
 
@@ -235,7 +263,7 @@ In your IDE Terminal, type the following command to clone my repository:
 ## Credits
 
 - #### Content
-
+  - [Blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote) helped me solve one of my html warnings after validation test.
   - [Figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
   - [Dribble inspiration](https://dribbble.com/shots/21217693-Marketing-agency-Smma-landing-page) Inspired some of the website design ideas
   - [ReadMe guide](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) Cheatsheet for ReadMe
