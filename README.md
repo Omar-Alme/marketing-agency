@@ -6,6 +6,10 @@ MarketMe is a website that provides services for business owners and brands to i
 
 This website can be accessed by this [link](https://omar-alme.github.io/marketing-agency/)
 
+![Preview all screens](documentations/all-screen-preview.png)
+
+Here is a link to preview the website on all screens [Responsive Preview](https://ui.dev/amiresponsive?url=https://omar-alme.github.io/marketing-agency/)
+
 ## User Stories
 
 ### Visior goals:
@@ -18,6 +22,7 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 - As a returning visitor, I want to book a demo call easily, So i can understand the service i picked meet my requirements
 - As a returning Visitor, I want to find a way to get in contact with the agency, so that I can ask additional questions and personalise a plan that best suits me.
 - As a returning visitor, I want to see testimonials and experience of other clients who used the services, so that i can see that the agency is reliable and delivers results
+
 
 ## Features
 
