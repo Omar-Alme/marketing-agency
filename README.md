@@ -172,6 +172,13 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 
 - Rubik Google Font was used as font through the whole website as it is very readable and very aesthetic. Only the weight of the font was changed througout the website from 400,500,600 and 700
 
+### Wireframes
+
+#### Index.html
+
+- [Wireframe. Desktop Screen](documentations/desktop-marketme.png)
+- [Wireframe. Tablet Screen](documentations/tablet-marketme.png)
+- [Wireframe. Mobile Screen](documentations/mobile-marketme.png)
 
 ## Validator testing
 + ### HTML
