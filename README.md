@@ -196,6 +196,7 @@ Here is a link to preview the website on all screens [Responsive Preview](https:
 - [Wireframe. Desktop Screen](documentations/desktop-marketme.png)
 - [Wireframe. Tablet Screen](documentations/tablet-marketme.png)
 - [Wireframe. Mobile Screen](documentations/mobile-marketme.png)
+    - This design is changed as it wasn't being as responsive. Nav section only is changed into columns for the nav links
 
 No wireframes for response page. As the original idea did not need this page, however later on realised a response page would be useful for call to action section to do something.
 
