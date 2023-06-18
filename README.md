@@ -162,6 +162,7 @@ Here is a link to preview the website on all screens [Responsive Preview](https:
 - [GitHub](https://github.com/) was used to host the website.
 - [remove background](https://www.remove.bg/b/remove-logo-backgrounds) was used to remove backgrounds from images.
 - [FontAwesome](https://fontawesome.com/) used for icons in the pricing cards.
+- [UI Amiresponsive](https://ui.dev/amiresponsive) Preview responsiveness of website.
 
 
 
