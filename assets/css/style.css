@@ -25,7 +25,6 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  /* flex: 1 0 auto; */
 }
 
 header>a {
@@ -99,7 +98,6 @@ nav {
 
 .nav-list {
   display: flex;
-  /* gap: 75px; */
   align-items: center;
   justify-content: space-between;
   list-style: none;
@@ -166,8 +164,6 @@ nav {
 
 .btn {
   display: inline-block;
-  /* background-color: #ff5c8d;
-  color: #fff; */
   border-radius: 15px;
   padding: 0.8rem 1.6rem;
   text-decoration: none;
