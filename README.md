@@ -44,12 +44,10 @@ Here is a link to preview the website on all screens [Responsive Preview](https:
         * On tablets: All elements are centered and is split into two colums, the MarketMe on top and the navigation links right under it.
         ![NavBar Tablets](documentations/nav-bar-tablet.png)
 
-        <!-- * On mobile devices: 
-            - navigation bar filled with the logo in the center and a hamburger menu implemented on the left side of the navigation bar.      
-            ![NavBar Mobile Closed](documentation/navbar_mobile_closed.png)
+        * On small devices/mobile devices: 
+            - navigation bar filled with the logo in the center nav links in a column.      
+            ![NavBar Mobile](documentations/nav-mobile.png)
         
-            - When the hamburger menu is clicked, there is dropdown menu with the links in the same order.
-            ![NavBar Mobile Open](documentation/navbar_mobile_open.png) -->
 ### Hero Section
  + #### First Section
     - Seperated into two column sections using grid. One column is the textarea with the heading and paragraph and a call to action button. The other is the image area.
