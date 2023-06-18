@@ -216,6 +216,7 @@ nav {
 
 .reverse-img {
   float: right;
+  width: 45%;
 }
 
 .services-paragraph {
@@ -225,7 +226,7 @@ nav {
 }
 
 .services-img {
-  width: 45%;
+  width: 60%;
 }
 
 /* Testimonials Section */
@@ -559,6 +560,10 @@ nav {
     margin-left: 1em;
     margin-bottom: 0;
   }
+
+  .services-img {
+    width: 80%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -599,6 +604,7 @@ nav {
 
 @media (max-width: 667px) {
   .nav-list {
+    flex-wrap: inherit;
     font-size: 10px;
     padding: 0;
   }
