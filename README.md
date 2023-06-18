@@ -182,15 +182,16 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 
 ## Validator testing
 + ### HTML
-  #### Main Page
+  #### Index Page
     - No errors or warnings were found when passing through the official W3C validator.
 
 
-    ![MarketMe HTML Validator]()
+    ![MarketMe HTML Validator](documentations/html-validation.png)
 
   #### Response Page  
+  - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Response Page HTML Validator]()
+    ![Response Page HTML Validator](documentations/response-html-validation.png)
 
 + ### CSS 
    No errors or warnings were found when passing through the official W3C (Jigsaw) validator:
@@ -200,9 +201,13 @@ This website can be accessed by this [link](https://omar-alme.github.io/marketin
 + ### Accessibility and performance 
     - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
     
-  #### Main page
+  #### Index page
 
   ![Main Page Lighthouse]()
+
+  #### Response page
+
+  ![Response Page Lighthouse]()
 
 ## Deployment
 
