@@ -134,9 +134,20 @@ Here is a link to preview the website on all screens [Responsive Preview](https:
 ### Scroll up button 
   - Fix position and sticky
   - Floating at the bottom right of the page 
-  - Goal is to redirect user back to the top of the page from any section.     
+  - Goal is to redirect user back to the top of the page from any section.  
 
+  ### Response Page
+ + #### Response.html
+    - After user fills form and presses button they are redirected to this page.
+       - Goal of Section
+          - Submit the form and thank the user for booking.         
+    ![Response page](documentations/response-page.png)
 
+    - Responsiveness:
+        * Responsive in all screens.
+    ![Response mobile page](documentations/response-page.png)
+    
+   
 ## Technologies Used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
