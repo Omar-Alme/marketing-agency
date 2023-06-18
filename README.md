@@ -209,6 +209,12 @@ Tthe following browsers were used to test:
 | Select a plan Dropdown | Options to show up when dropwdown button clicked | Click on dropdown | All options show up and user must select one | Pass |
 | Form button - after filling form | Redirect user to the respone.html page | Click on button after filling form correctly | User is redirected to response.html page | Pass |
 
+### Bugs
++ #### Solved bugs
+    1. Because i cloned repo in home directory, my terminal was not allowing me to do anything because of untracked files.
+    
+    Solution: [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.) By moving the untracked file to gitignore, I solved this bug.
+
 
 ## Validator testing
 + ### HTML
@@ -254,13 +260,6 @@ In order to make a local copy of this project, you can clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
 -      git clone https://github.com/Omar-Alme/marketing-agency
-
-### Bugs
-+ #### Solved bugs
-    1. Because i cloned repo in home directory, my terminal was not allowing me to do anything because of untracked files.
-    
-    Solution: [bug](https://phoenixnap.com/kb/git-stash-untracked-files#:~:text=An%20untracked%20file%20in%20Git,explicitly%20told%20to%20include%20them.) By moving the untracked file to gitignore, I solved this bug.
-
 
 ## Credits
 
