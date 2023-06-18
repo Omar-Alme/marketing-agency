@@ -671,7 +671,7 @@ nav {
   }
 }
 
-@media (max-width:454px) {
+@media (max-width:469px) {
   .sticky-footer {
     display: flex;
     flex-direction: column;
@@ -689,4 +689,14 @@ nav {
     float: none;
     width: 68%;
   }
+}
+
+@media (min-width: 250px) and (max-width: 469px) {
+  .nav-list {
+    font-size: 8px;
+    margin: 0;
+    flex-direction: column;
+  }
+
+
 }
